@@ -1,0 +1,2 @@
+# task
+Komunikacyjny portal społecznościowy
